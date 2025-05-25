@@ -5,7 +5,7 @@ Le dossier "calculs" contient la parallélisation GPU des opérations : Saxpy, S
 Le dossier "image" contient la parallélisation GPU des opérations de traitement d'image suivantes : Filtre Moyenneur et Filtre Gaussien. Il contient les kernels (.cl), les codes en C++ ainsi que des codes python pour visualiser les performances.
 
 <p align="center">
-  <img src="image/manet.png" alt="Tableau de Manet" width="45%"/>
+  <img src="image/manet.jpg" alt="Tableau de Manet" width="45%"/>
   <img src="image/result.png" alt="Tableau de Manet Flouté" width="45%"/>
 </p>
 
