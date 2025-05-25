@@ -1,0 +1,1 @@
+/export/apps/GCC/gcc-9.3.0-bin/bin/c++  -L/usr/local/cuda-10.1/targets/x86_64-linux/lib/ -rdynamic CMakeFiles/imageCopyFilter.dir/imageCopyFilter.cpp.o CMakeFiles/imageCopyFilter.dir/utils.cpp.o -o imageCopyFilter  -lOpenCL -lm -lfreeimage 
